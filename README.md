@@ -1,2 +1,2 @@
 # Database-php
-full dengan chatgpt 
+full dengan chatgpt & android menggunakan ksweb
